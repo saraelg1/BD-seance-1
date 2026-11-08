@@ -1,0 +1,3 @@
+
+
+call compteur(10);
